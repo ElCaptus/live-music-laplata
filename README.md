@@ -7,3 +7,5 @@ Musica:
 - Clasica (teatros, auditorios)
 
 - Popular (Teatros, bares, plazas, restaurantes, casas, eventos en general)
+
+Lugares: La Plata y Buenos Aires con ideas de escalar
